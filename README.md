@@ -1,4 +1,2 @@
 xds
 ===
-
-Xavux Dedicated Store
